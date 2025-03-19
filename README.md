@@ -8,6 +8,6 @@ Cristian Arevalo
 
 Estructura de datos 
 
-### ACTIVIDAD 
+### ACTIVIDAD
 
-SACAR 10 en la practica 
+SACAR 10 en la parctica 
